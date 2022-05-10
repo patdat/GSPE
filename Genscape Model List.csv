@@ -1,0 +1,75 @@
+pipelineName,direction
+Basin,Cushing Incoming
+Cashion,Cushing Incoming
+Centurion North,Cushing Incoming
+Eagle North,Cushing Incoming
+Flanagan South,Cushing Incoming
+Glass Mountain - Cleo Springs to Cushing,Cushing Incoming
+Great Salt Plains,Cushing Incoming
+Hawthorn,Cushing Incoming
+Keystone - Steele City to Cushing,Cushing Incoming
+Mississippian Lime,Cushing Incoming
+Pony Express,Cushing Incoming
+Red River,Cushing Incoming
+Saddlehorn-Grand Mesa,Cushing Incoming
+SCOOP,Cushing Incoming
+Seaway North,Cushing Incoming
+Spearhead,Cushing Incoming
+White Cliffs - Into Cushing,Cushing Incoming
+BP1,Cushing Outgoing
+Cushing to Nederland,Cushing Outgoing
+Diamond,Cushing Outgoing
+Marketlink,Cushing Outgoing
+Osage,Cushing Outgoing
+Ozark,Cushing Outgoing
+Phillips,Cushing Outgoing
+Red River - Cushing to Longview,Cushing Outgoing
+Seaway South,Cushing Outgoing
+Seaway Twin,Cushing Outgoing
+Basin - Lindsay Injection,Cushing Incoming Injection
+Basin - Duncan Offtake,Cushing Incoming Offtake 
+Pony Express - El Dorado Offtake,Cushing Incoming Offtake 
+Pony Express - Ponca City Offtake,Cushing Incoming Offtake 
+Dakota Access,Patoka Incoming
+Keystone - Steele City to Patoka,Patoka Incoming
+Southern Access Extension,Patoka Incoming
+Capline - Patoka to St. James,Patoka Outgoing
+Chicap,Patoka Outgoing
+ETCOP,Patoka Outgoing
+Marathon to Catlettsburg,Patoka Outgoing
+Marathon to Lima,Patoka Outgoing
+Cactus System,Corpus Christi Incoming
+Double Eagle,Corpus Christi Incoming
+EPIC,Corpus Christi Incoming
+Gardendale,Corpus Christi Incoming
+Gray Oak,Corpus Christi Incoming
+NuStar - Three Rivers to CC,Corpus Christi Incoming
+Rio Bravo,Corpus Christi Incoming
+BridgeTex,Houston Incoming
+KMCC to Houston,Houston Incoming
+KMCC to Sweeny,Houston Incoming
+Zydeco,Houston Outgoing
+Butte,Other
+Cowboy,Other
+Double H,Other
+Eagle Ford JV - Gardendale to Three Rivers,Other
+Enbridge North Dakota,Other
+Glass Mountain - Alva to Cleo Springs,Other
+Glass Mountain - Arnett to Cleo Springs,Other
+Glass Mountain - Omega to Cleo Springs,Other
+Keystone - Hardisty to Steele City,Other
+Koch Minnesota,Other
+Longhorn,Other
+Marathon,Other
+Mid Valley,Other
+"Midland to ECHO I, III",Other
+Midland to ECHO II,Other
+Nelson to Ross,Other
+Platte,Other
+Portal Link,Other
+Rancho II,Other
+Saddlehorn - Carr Lateral,Other
+Capline - Collierville to Memphis,Other
+Capline - Collierville to Patoka,Patoka Incoming
+Red River,Cushing Outgoing
+Capline - Patoka to St. James,Other
